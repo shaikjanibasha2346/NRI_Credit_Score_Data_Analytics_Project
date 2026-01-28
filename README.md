@@ -26,6 +26,10 @@ Data Analytics / BI / Risk Analytics
 - dashboards/: BI layer
 - reports/: final insights
 - scripts/: data processing
+- <img width="1920" height="576" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/4902f7f8-85a0-48ba-a21d-a1ee5c5c075e" />
+<img width="1920" height="1080" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/f93e6d17-dab6-4aae-aa72-282df61a221f" />
+
+
 
 ## Use Case
 Banks & FinTechs offering loans to new NRIs without traditional credit history.
